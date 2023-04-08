@@ -1,0 +1,3 @@
+[submodule "SubmodulRepository"]
+	path = SubmodulRepository
+	url = https://github.com/evsienko-k/SubmodulRepository
